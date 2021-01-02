@@ -1,0 +1,15 @@
+body {
+  background-image: url(/assets/dots.png);
+  background-repeat: repeat; }
+
+h1 {
+  font-size: 96px;
+  color: lightblue;
+  letter-spacing: 0.05em;
+  font-family: 'Gill Sans MT W03 Bold'; }
+
+p {
+  letter-spacing: 0.03em;
+  font-family: 'Gill Sans MT W03 Book'; }
+
+/*# sourceMappingURL=idi.css.map */
